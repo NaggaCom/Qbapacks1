@@ -1,0 +1,120 @@
+* {
+     box-sizing: border-box !important;
+     transition: ease all 0.5s;
+	box-zizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+div.div_arriba{
+	background-color: magenta;
+	height: 5vh;
+	width: 100%;
+	}
+
+.cuenta{
+	color: white;
+	margin-left: 3px;
+	text-size: 1px;
+	}
+	
+.perfil{
+	border: 3px solid white;
+	border-radius: 100px;
+	height: 90px;
+	margin-top: 26.5vh;
+	margin-left: 10px;
+	margin-right: 8px;
+	margin-bottom: 0px;
+	padding: 0px 0px 0px 0px;
+	width: 90px;
+	}
+
+.usuario{
+	color: dodgerblue;
+	margin-top: 0px;
+	margin-left: 8px;
+	}
+	
+.info{
+	color: black;
+	margin-left: 8px;
+	margin-top: 10px;
+	}
+	
+.boton1{
+	border: 2px solid orange;
+	border-radius: 100px;
+	height: 40px;
+	margin-left: 6px;
+	margin-top: 10px;
+	width: 40px;
+	}
+	
+.boton2{
+	border: 2px solid green;
+	border-radius: 100px;
+	height: 40px;
+	margin-left: 10px;
+	width: 40px;
+	}
+	
+.boton3{
+	border: 2px solid blue;
+	border-radius: 100px;
+	height: 40px;
+	margin-left: 10px;
+	width: 40px;
+	}
+	
+.boton4{
+	border: 2px solid magenta;
+	border-radius: 100px;
+	height: 40px;
+	margin-left: 10px;
+	width: 40px;
+	}	
+	
+.boton5{
+	border: 2px solid gold;
+	border-radius: 100px;
+	height: 40px;
+	margin-left: 10px;
+	width: 40px;
+	}	
+	
+.perfil_p{
+	border: 3px solid white;
+	border-radius: 100px;
+	float: left;
+	height: 50px;
+	margin-top: 10px;
+	margin-left: 3px;
+	margin-right: 5px;
+	padding: 0px 0px 0px 0px;
+	width: 50px;
+	}	
+
+.usuario_p{
+	color: black;
+	margin-top: 26px;
+	margin-left: 5px;
+	}	
+	
+.fecha{
+	color: gray;
+	margin-left: 8px;
+	margin-top: 40px;
+	}
+	
+.post{
+	height: auto;
+	margin-top: 3px;
+	width: 100%;
+	}
+	
+.pie{
+	color: gray;
+	margin-left: 5px;
+	margin-top:0px;
+	}
